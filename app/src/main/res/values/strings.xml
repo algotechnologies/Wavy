@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wavy</string>
+
+    <!-- UserProfileActivity strings -->
+    <string name="full_name">Full name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <!-- UserProfileActivity strings end here -->
+
+</resources>
